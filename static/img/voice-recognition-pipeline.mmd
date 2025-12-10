@@ -1,0 +1,14 @@
+graph TD
+    A[Spoken Command] --> B[Audio Input]
+    B --> C[Preprocessing]
+    C --> D[Whisper ASR]
+    D --> E[Transcribed Text]
+    E --> F[Intent Recognition]
+    F --> G[Parameter Extraction]
+    G --> H[Structured Command]
+    H --> I[Robot Action]
+
+    style A fill:#e1f5fe
+    style I fill:#e8f5e8
+    style D fill:#fff3e0
+    style H fill:#f3e5f5
