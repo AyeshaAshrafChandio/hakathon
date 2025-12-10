@@ -1,0 +1,27 @@
+graph TD
+    A[User Voice Command] --> B[Whisper ASR]
+    B --> C[Speech to Text]
+    C --> D[LLM Cognitive Planning]
+    D --> E[Natural Language to Action Plan]
+    E --> F[ROS 2 Action Execution]
+    F --> G[Navigate]
+    F --> H[Detect]
+    F --> I[Manipulate]
+    G --> J[Robot Navigation]
+    H --> K[Object Detection]
+    I --> L[Robot Manipulation]
+    J --> M[System State Update]
+    K --> M
+    L --> M
+    M --> N[Task Completion]
+
+    O[Environmental Sensors] --> J
+    O --> K
+    P[Robot State] --> G
+    P --> H
+    P --> I
+
+    style A fill:#e1f5fe
+    style N fill:#e8f5e8
+    style D fill:#fff3e0
+    style F fill:#f3e5f5

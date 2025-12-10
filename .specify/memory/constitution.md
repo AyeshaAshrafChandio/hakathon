@@ -1,55 +1,56 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!-- Sync Impact Report:
+Version change: 0.1.0 -> 0.1.1 (Patch - Reaffirmation of principles)
+Modified principles: None
+Added sections: None
+Removed sections: None
+Templates requiring updates:
+- .specify/templates/plan-template.md: ⚠ pending
+- .specify/templates/spec-template.md: ⚠ pending
+- .specify/templates/tasks-template.md: ⚠ pending
+- .specify/templates/commands/*.md: ⚠ pending
+Follow-up TODOs: None
+-->
+# AI/Spec-Driven Book + RAG Chatbot on “Physical AI & Humanoid Robotics” Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### Technical Accuracy
+All content, code, and explanations must be technically accurate, specifically referencing ROS 2, Gazebo, Unity, Isaac, and VLA where applicable.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### Consistency & Maintainability
+Maintain consistency with Spec-Kit Plus guidelines and Docusaurus framework for project structure and documentation. Ensure verified code using ROS 2, rclpy, Python, FastAPI, and OpenAI Agents/ChatKit.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### Clarity & Educational Value
+Provide clear, structured explanations tailored for AI/robotics students. Content must be free of hallucinations and strictly follow official documentation.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### Content Structure & Referencing
+Each chapter must include clear objectives, relevant diagrams, verified code examples, and defined workflows. Use IEEE citations where necessary.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### RAG Chatbot Fidelity
+The RAG chatbot must strictly answer questions based on the content provided within the book, ensuring zero external knowledge interference.
 
-### [PRINCIPLE_6_NAME]
+### Latest SDK & Tooling
+All integrations and examples must utilize the latest stable SDK versions for all relevant tools and libraries.
 
+## Constraints
 
-[PRINCIPLE__DESCRIPTION]
+- Book must be fully Spec-Kit Plus compatible and deployable via GitHub Pages.
+- RAG system will use Qdrant Cloud for vector storage and Neon Postgres for metadata.
+- Content coverage is limited to syllabus modules:
+  1) ROS 2 fundamentals + URDF
+  2) Gazebo/Unity digital twin
+  3) NVIDIA Isaac Sim/Isaac ROS/Nav2
+  4) VLA: Whisper + LLM planning
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+## Success Criteria
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+- The book must build in Docusaurus without any errors.
+- The RAG chatbot must function correctly end-to-end, including retrieval capabilities.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+- All Pull Requests and code reviews must explicitly verify compliance with these constitutional principles.
+- Any increase in system complexity must be thoroughly justified with clear rationale and documented tradeoffs.
+- Refer to specific guidance files (e.g., `README.md`, `docs/quickstart.md`) for runtime development procedures and best practices.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 0.1.1 | **Ratified**: 2025-12-09 | **Last Amended**: 2025-12-09
