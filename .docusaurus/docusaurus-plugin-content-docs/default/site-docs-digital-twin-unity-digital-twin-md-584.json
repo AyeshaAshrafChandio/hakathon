@@ -1,0 +1,27 @@
+{
+  "id": "digital-twin/unity-digital-twin",
+  "title": "Unity Digital Twin Environment",
+  "description": "Introduction",
+  "source": "@site/docs/digital-twin/unity-digital-twin.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/unity-digital-twin",
+  "permalink": "/docs/digital-twin/unity-digital-twin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/unity-digital-twin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Physics Simulation",
+    "permalink": "/docs/digital-twin/gazebo-physics"
+  },
+  "next": {
+    "title": "Sensor Simulation in Digital Twins",
+    "permalink": "/docs/digital-twin/sensor-simulation"
+  }
+}

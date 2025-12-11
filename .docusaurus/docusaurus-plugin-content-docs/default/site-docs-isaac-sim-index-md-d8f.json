@@ -1,0 +1,27 @@
+{
+  "id": "isaac-sim/index",
+  "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+  "description": "Overview",
+  "source": "@site/docs/isaac-sim/index.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/",
+  "permalink": "/docs/isaac-sim/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation in Digital Twins",
+    "permalink": "/docs/digital-twin/sensor-simulation"
+  },
+  "next": {
+    "title": "Isaac Sim for Photorealistic Simulation",
+    "permalink": "/docs/isaac-sim/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "digital-twin/sensor-simulation",
+  "title": "Sensor Simulation in Digital Twins",
+  "description": "Introduction",
+  "source": "@site/docs/digital-twin/sensor-simulation.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/sensor-simulation",
+  "permalink": "/docs/digital-twin/sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Digital Twin Environment",
+    "permalink": "/docs/digital-twin/unity-digital-twin"
+  },
+  "next": {
+    "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+    "permalink": "/docs/isaac-sim/"
+  }
+}

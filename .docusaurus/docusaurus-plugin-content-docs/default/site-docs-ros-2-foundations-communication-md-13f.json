@@ -1,0 +1,27 @@
+{
+  "id": "ros2-foundations/communication",
+  "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+  "description": "Introduction",
+  "source": "@site/docs/ros2-foundations/communication.md",
+  "sourceDirName": "ros2-foundations",
+  "slug": "/ros2-foundations/communication",
+  "permalink": "/docs/ros2-foundations/communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/communication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Foundations of the Robotic Nervous System",
+    "permalink": "/docs/ros2-foundations/foundations"
+  },
+  "next": {
+    "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+    "permalink": "/docs/ros2-foundations/bridging-ai-robots"
+  }
+}

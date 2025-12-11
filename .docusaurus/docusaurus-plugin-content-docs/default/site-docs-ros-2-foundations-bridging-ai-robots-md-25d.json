@@ -1,0 +1,27 @@
+{
+  "id": "ros2-foundations/bridging-ai-robots",
+  "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+  "description": "Introduction",
+  "source": "@site/docs/ros2-foundations/bridging-ai-robots.md",
+  "sourceDirName": "ros2-foundations",
+  "slug": "/ros2-foundations/bridging-ai-robots",
+  "permalink": "/docs/ros2-foundations/bridging-ai-robots",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/bridging-ai-robots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+    "permalink": "/docs/ros2-foundations/communication"
+  },
+  "next": {
+    "title": "Module 2: Digital Twin Simulation",
+    "permalink": "/docs/digital-twin/"
+  }
+}

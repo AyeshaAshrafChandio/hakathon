@@ -1,0 +1,15 @@
+{
+  "id": "vla-system/quality-checklist",
+  "title": "Quality Validation Checklist: Vision-Language-Action (VLA) System",
+  "description": "Content Accuracy",
+  "source": "@site/docs/vla-system/quality-checklist.md",
+  "sourceDirName": "vla-system",
+  "slug": "/vla-system/quality-checklist",
+  "permalink": "/docs/vla-system/quality-checklist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/quality-checklist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

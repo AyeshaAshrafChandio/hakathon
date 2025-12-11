@@ -1,0 +1,27 @@
+{
+  "id": "isaac-sim/isaac-ros",
+  "title": "Isaac ROS for Accelerated Perception",
+  "description": "Introduction",
+  "source": "@site/docs/isaac-sim/isaac-ros.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/isaac-ros",
+  "permalink": "/docs/isaac-sim/isaac-ros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/isaac-ros.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim for Photorealistic Simulation",
+    "permalink": "/docs/isaac-sim/"
+  },
+  "next": {
+    "title": "Nav2 for Humanoid Navigation",
+    "permalink": "/docs/isaac-sim/nav2-humanoid"
+  }
+}

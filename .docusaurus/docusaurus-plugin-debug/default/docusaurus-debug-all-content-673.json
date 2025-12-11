@@ -1,0 +1,604 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs",
+          "editUrlLocalized": "https://github.com/your-username/your-repo-name/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Admin\\hakathon\\sidebars.js",
+          "contentPath": "C:\\Users\\Admin\\hakathon\\docs",
+          "contentPathLocalized": "C:\\Users\\Admin\\hakathon\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "digital-twin/gazebo-physics",
+              "title": "Gazebo Physics Simulation",
+              "description": "Introduction",
+              "source": "@site/docs/digital-twin/gazebo-physics.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/gazebo-physics",
+              "permalink": "/docs/digital-twin/gazebo-physics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/gazebo-physics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2: Digital Twin Simulation",
+                "permalink": "/docs/digital-twin/"
+              },
+              "next": {
+                "title": "Unity Digital Twin Environment",
+                "permalink": "/docs/digital-twin/unity-digital-twin"
+              }
+            },
+            {
+              "id": "digital-twin/index",
+              "title": "Module 2: Digital Twin Simulation",
+              "description": "Overview",
+              "source": "@site/docs/digital-twin/index.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/",
+              "permalink": "/docs/digital-twin/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+                "permalink": "/docs/ros2-foundations/bridging-ai-robots"
+              },
+              "next": {
+                "title": "Gazebo Physics Simulation",
+                "permalink": "/docs/digital-twin/gazebo-physics"
+              }
+            },
+            {
+              "id": "digital-twin/sensor-simulation",
+              "title": "Sensor Simulation in Digital Twins",
+              "description": "Introduction",
+              "source": "@site/docs/digital-twin/sensor-simulation.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/sensor-simulation",
+              "permalink": "/docs/digital-twin/sensor-simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/sensor-simulation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unity Digital Twin Environment",
+                "permalink": "/docs/digital-twin/unity-digital-twin"
+              },
+              "next": {
+                "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/docs/isaac-sim/"
+              }
+            },
+            {
+              "id": "digital-twin/unity-digital-twin",
+              "title": "Unity Digital Twin Environment",
+              "description": "Introduction",
+              "source": "@site/docs/digital-twin/unity-digital-twin.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/unity-digital-twin",
+              "permalink": "/docs/digital-twin/unity-digital-twin",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/unity-digital-twin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gazebo Physics Simulation",
+                "permalink": "/docs/digital-twin/gazebo-physics"
+              },
+              "next": {
+                "title": "Sensor Simulation in Digital Twins",
+                "permalink": "/docs/digital-twin/sensor-simulation"
+              }
+            },
+            {
+              "id": "index",
+              "title": "Physical AI & Humanoid Robotics",
+              "description": "Welcome to the Physical AI & Humanoid Robotics Book",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Module 1: ROS 2 Foundations",
+                "permalink": "/docs/ros2-foundations/"
+              }
+            },
+            {
+              "id": "isaac-sim/index",
+              "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+              "description": "Overview",
+              "source": "@site/docs/isaac-sim/index.md",
+              "sourceDirName": "isaac-sim",
+              "slug": "/isaac-sim/",
+              "permalink": "/docs/isaac-sim/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 19,
+              "frontMatter": {
+                "sidebar_position": 19
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sensor Simulation in Digital Twins",
+                "permalink": "/docs/digital-twin/sensor-simulation"
+              },
+              "next": {
+                "title": "Isaac Sim for Photorealistic Simulation",
+                "permalink": "/docs/isaac-sim/"
+              }
+            },
+            {
+              "id": "isaac-sim/isaac-ros",
+              "title": "Isaac ROS for Accelerated Perception",
+              "description": "Introduction",
+              "source": "@site/docs/isaac-sim/isaac-ros.md",
+              "sourceDirName": "isaac-sim",
+              "slug": "/isaac-sim/isaac-ros",
+              "permalink": "/docs/isaac-sim/isaac-ros",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/isaac-ros.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 21,
+              "frontMatter": {
+                "sidebar_position": 21
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac Sim for Photorealistic Simulation",
+                "permalink": "/docs/isaac-sim/"
+              },
+              "next": {
+                "title": "Nav2 for Humanoid Navigation",
+                "permalink": "/docs/isaac-sim/nav2-humanoid"
+              }
+            },
+            {
+              "id": "isaac-sim/isaac-sim",
+              "title": "Isaac Sim for Photorealistic Simulation",
+              "description": "Introduction",
+              "source": "@site/docs/isaac-sim/isaac-sim.md",
+              "sourceDirName": "isaac-sim",
+              "slug": "/isaac-sim/",
+              "permalink": "/docs/isaac-sim/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/isaac-sim.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 20,
+              "frontMatter": {
+                "sidebar_position": 20
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/docs/isaac-sim/"
+              },
+              "next": {
+                "title": "Isaac ROS for Accelerated Perception",
+                "permalink": "/docs/isaac-sim/isaac-ros"
+              }
+            },
+            {
+              "id": "isaac-sim/nav2-humanoid",
+              "title": "Nav2 for Humanoid Navigation",
+              "description": "Introduction",
+              "source": "@site/docs/isaac-sim/nav2-humanoid.md",
+              "sourceDirName": "isaac-sim",
+              "slug": "/isaac-sim/nav2-humanoid",
+              "permalink": "/docs/isaac-sim/nav2-humanoid",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/nav2-humanoid.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 22,
+              "frontMatter": {
+                "sidebar_position": 22
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac ROS for Accelerated Perception",
+                "permalink": "/docs/isaac-sim/isaac-ros"
+              },
+              "next": {
+                "title": "Vision-Language-Action (VLA) System",
+                "permalink": "/docs/vla-system/"
+              }
+            },
+            {
+              "id": "ros2-foundations/bridging-ai-robots",
+              "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+              "description": "Introduction",
+              "source": "@site/docs/ros2-foundations/bridging-ai-robots.md",
+              "sourceDirName": "ros2-foundations",
+              "slug": "/ros2-foundations/bridging-ai-robots",
+              "permalink": "/docs/ros2-foundations/bridging-ai-robots",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/bridging-ai-robots.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+                "permalink": "/docs/ros2-foundations/communication"
+              },
+              "next": {
+                "title": "Module 2: Digital Twin Simulation",
+                "permalink": "/docs/digital-twin/"
+              }
+            },
+            {
+              "id": "ros2-foundations/communication",
+              "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+              "description": "Introduction",
+              "source": "@site/docs/ros2-foundations/communication.md",
+              "sourceDirName": "ros2-foundations",
+              "slug": "/ros2-foundations/communication",
+              "permalink": "/docs/ros2-foundations/communication",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/communication.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Foundations of the Robotic Nervous System",
+                "permalink": "/docs/ros2-foundations/foundations"
+              },
+              "next": {
+                "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+                "permalink": "/docs/ros2-foundations/bridging-ai-robots"
+              }
+            },
+            {
+              "id": "ros2-foundations/foundations",
+              "title": "Foundations of the Robotic Nervous System",
+              "description": "Introduction",
+              "source": "@site/docs/ros2-foundations/foundations.md",
+              "sourceDirName": "ros2-foundations",
+              "slug": "/ros2-foundations/foundations",
+              "permalink": "/docs/ros2-foundations/foundations",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/foundations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1: ROS 2 Foundations",
+                "permalink": "/docs/ros2-foundations/"
+              },
+              "next": {
+                "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+                "permalink": "/docs/ros2-foundations/communication"
+              }
+            },
+            {
+              "id": "ros2-foundations/index",
+              "title": "Module 1: ROS 2 Foundations",
+              "description": "Overview",
+              "source": "@site/docs/ros2-foundations/index.md",
+              "sourceDirName": "ros2-foundations",
+              "slug": "/ros2-foundations/",
+              "permalink": "/docs/ros2-foundations/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physical AI & Humanoid Robotics",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Foundations of the Robotic Nervous System",
+                "permalink": "/docs/ros2-foundations/foundations"
+              }
+            },
+            {
+              "id": "vla-system/autonomous-humanoid",
+              "title": "Autonomous Humanoid Capstone",
+              "description": "Introduction",
+              "source": "@site/docs/vla-system/autonomous-humanoid.md",
+              "sourceDirName": "vla-system",
+              "slug": "/vla-system/autonomous-humanoid",
+              "permalink": "/docs/vla-system/autonomous-humanoid",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/autonomous-humanoid.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 28,
+              "frontMatter": {
+                "sidebar_position": 28
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cognitive Planning with LLMs",
+                "permalink": "/docs/vla-system/cognitive-planning"
+              }
+            },
+            {
+              "id": "vla-system/cognitive-planning",
+              "title": "Cognitive Planning with LLMs",
+              "description": "Introduction",
+              "source": "@site/docs/vla-system/cognitive-planning.md",
+              "sourceDirName": "vla-system",
+              "slug": "/vla-system/cognitive-planning",
+              "permalink": "/docs/vla-system/cognitive-planning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/cognitive-planning.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 27,
+              "frontMatter": {
+                "sidebar_position": 27
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Voice-to-Action Conversion",
+                "permalink": "/docs/vla-system/voice-to-action"
+              },
+              "next": {
+                "title": "Autonomous Humanoid Capstone",
+                "permalink": "/docs/vla-system/autonomous-humanoid"
+              }
+            },
+            {
+              "id": "vla-system/index",
+              "title": "Vision-Language-Action (VLA) System",
+              "description": "Welcome to the Vision-Language-Action (VLA) System module! This section covers how Large Language Models (LLMs) connect language, perception, and robot actions through voice recognition, cognitive planning, and autonomous execution.",
+              "source": "@site/docs/vla-system/index.md",
+              "sourceDirName": "vla-system",
+              "slug": "/vla-system/",
+              "permalink": "/docs/vla-system/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 25,
+              "frontMatter": {
+                "sidebar_position": 25
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nav2 for Humanoid Navigation",
+                "permalink": "/docs/isaac-sim/nav2-humanoid"
+              },
+              "next": {
+                "title": "Voice-to-Action Conversion",
+                "permalink": "/docs/vla-system/voice-to-action"
+              }
+            },
+            {
+              "id": "vla-system/quality-checklist",
+              "title": "Quality Validation Checklist: Vision-Language-Action (VLA) System",
+              "description": "Content Accuracy",
+              "source": "@site/docs/vla-system/quality-checklist.md",
+              "sourceDirName": "vla-system",
+              "slug": "/vla-system/quality-checklist",
+              "permalink": "/docs/vla-system/quality-checklist",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/quality-checklist.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "id": "vla-system/voice-to-action",
+              "title": "Voice-to-Action Conversion",
+              "description": "Introduction",
+              "source": "@site/docs/vla-system/voice-to-action.md",
+              "sourceDirName": "vla-system",
+              "slug": "/vla-system/voice-to-action",
+              "permalink": "/docs/vla-system/voice-to-action",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/voice-to-action.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 26,
+              "frontMatter": {
+                "sidebar_position": 26
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vision-Language-Action (VLA) System",
+                "permalink": "/docs/vla-system/"
+              },
+              "next": {
+                "title": "Cognitive Planning with LLMs",
+                "permalink": "/docs/vla-system/cognitive-planning"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: ROS 2 Foundations",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ros2-foundations/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros2-foundations/foundations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros2-foundations/communication"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros2-foundations/bridging-ai-robots"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 2: Digital Twin Simulation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/gazebo-physics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/unity-digital-twin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/sensor-simulation"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "isaac-sim/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "isaac-sim/isaac-sim"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "isaac-sim/isaac-ros"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "isaac-sim/nav2-humanoid"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA) System",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "vla-system/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vla-system/voice-to-action"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vla-system/cognitive-planning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vla-system/autonomous-humanoid"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

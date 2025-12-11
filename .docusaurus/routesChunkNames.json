@@ -1,0 +1,130 @@
+{
+  "/__docusaurus/debug-c16": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    }
+  },
+  "/__docusaurus/debug/config-d95": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    }
+  },
+  "/__docusaurus/debug/content-fe2": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-832": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    }
+  },
+  "/__docusaurus/debug/metadata-f40": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    }
+  },
+  "/__docusaurus/debug/registry-909": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    }
+  },
+  "/__docusaurus/debug/routes-c94": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-020-585"
+    }
+  },
+  "/docs-55c": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-5-f-5-896"
+    }
+  },
+  "/docs-f76": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-d2e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/-a8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-c-37-4d0"
+  },
+  "/docs/digital-twin/-2da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-digital-twin-cd-9-388"
+  },
+  "/docs/digital-twin/gazebo-physics-725": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-digital-twin-gazebo-physicsb-91-715"
+  },
+  "/docs/digital-twin/sensor-simulation-cd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-digital-twin-sensor-simulationa-34-368"
+  },
+  "/docs/digital-twin/unity-digital-twin-e38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-digital-twin-unity-digital-twin-584-b63"
+  },
+  "/docs/isaac-sim/-0f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-d-8-f-d2f"
+  },
+  "/docs/isaac-sim/-b11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-64-f-062"
+  },
+  "/docs/isaac-sim/isaac-ros-497": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-isaac-ros-07-b-afa"
+  },
+  "/docs/isaac-sim/nav2-humanoid-7ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-nav-2-humanoidc-45-89c"
+  },
+  "/docs/ros2-foundations/-ce7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-2-foundations-f-85-572"
+  },
+  "/docs/ros2-foundations/bridging-ai-robots-a0d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-2-foundations-bridging-ai-robots-25-d-1a8"
+  },
+  "/docs/ros2-foundations/communication-5bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-2-foundations-communication-13-f-510"
+  },
+  "/docs/ros2-foundations/foundations-ed7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-2-foundations-foundationscc-6-aae"
+  },
+  "/docs/vla-system/-c7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-system-c-05-eea"
+  },
+  "/docs/vla-system/autonomous-humanoid-e6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-system-autonomous-humanoid-152-de2"
+  },
+  "/docs/vla-system/cognitive-planning-9bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-system-cognitive-planning-8-d-5-17d"
+  },
+  "/docs/vla-system/quality-checklist-841": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-system-quality-checklista-54-864"
+  },
+  "/docs/vla-system/voice-to-action-964": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-system-voice-to-action-54-a-daf"
+  }
+}

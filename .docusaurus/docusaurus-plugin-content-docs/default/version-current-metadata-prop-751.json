@@ -1,0 +1,274 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Physical AI & Humanoid Robotics",
+        "href": "/docs/",
+        "docId": "index",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1: ROS 2 Foundations",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 1: ROS 2 Foundations",
+            "href": "/docs/ros2-foundations/",
+            "docId": "ros2-foundations/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Foundations of the Robotic Nervous System",
+            "href": "/docs/ros2-foundations/foundations",
+            "docId": "ros2-foundations/foundations",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Communication in ROS 2 (Nodes, Topics, Services)",
+            "href": "/docs/ros2-foundations/communication",
+            "docId": "ros2-foundations/communication",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Bridging AI Agents to Robots + URDF for Humanoids",
+            "href": "/docs/ros2-foundations/bridging-ai-robots",
+            "docId": "ros2-foundations/bridging-ai-robots",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 2: Digital Twin Simulation",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 2: Digital Twin Simulation",
+            "href": "/docs/digital-twin/",
+            "docId": "digital-twin/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Gazebo Physics Simulation",
+            "href": "/docs/digital-twin/gazebo-physics",
+            "docId": "digital-twin/gazebo-physics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Unity Digital Twin Environment",
+            "href": "/docs/digital-twin/unity-digital-twin",
+            "docId": "digital-twin/unity-digital-twin",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sensor Simulation in Digital Twins",
+            "href": "/docs/digital-twin/sensor-simulation",
+            "docId": "digital-twin/sensor-simulation",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+            "href": "/docs/isaac-sim/",
+            "docId": "isaac-sim/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Isaac Sim for Photorealistic Simulation",
+            "href": "/docs/isaac-sim/",
+            "docId": "isaac-sim/isaac-sim",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Isaac ROS for Accelerated Perception",
+            "href": "/docs/isaac-sim/isaac-ros",
+            "docId": "isaac-sim/isaac-ros",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Nav2 for Humanoid Navigation",
+            "href": "/docs/isaac-sim/nav2-humanoid",
+            "docId": "isaac-sim/nav2-humanoid",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA) System",
+        "items": [
+          {
+            "type": "link",
+            "label": "Vision-Language-Action (VLA) System",
+            "href": "/docs/vla-system/",
+            "docId": "vla-system/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Voice-to-Action Conversion",
+            "href": "/docs/vla-system/voice-to-action",
+            "docId": "vla-system/voice-to-action",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Cognitive Planning with LLMs",
+            "href": "/docs/vla-system/cognitive-planning",
+            "docId": "vla-system/cognitive-planning",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Autonomous Humanoid Capstone",
+            "href": "/docs/vla-system/autonomous-humanoid",
+            "docId": "vla-system/autonomous-humanoid",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "digital-twin/gazebo-physics": {
+      "id": "digital-twin/gazebo-physics",
+      "title": "Gazebo Physics Simulation",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "digital-twin/index": {
+      "id": "digital-twin/index",
+      "title": "Module 2: Digital Twin Simulation",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "digital-twin/sensor-simulation": {
+      "id": "digital-twin/sensor-simulation",
+      "title": "Sensor Simulation in Digital Twins",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "digital-twin/unity-digital-twin": {
+      "id": "digital-twin/unity-digital-twin",
+      "title": "Unity Digital Twin Environment",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "Physical AI & Humanoid Robotics",
+      "description": "Welcome to the Physical AI & Humanoid Robotics Book",
+      "sidebar": "tutorialSidebar"
+    },
+    "isaac-sim/index": {
+      "id": "isaac-sim/index",
+      "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "isaac-sim/isaac-ros": {
+      "id": "isaac-sim/isaac-ros",
+      "title": "Isaac ROS for Accelerated Perception",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "isaac-sim/isaac-sim": {
+      "id": "isaac-sim/isaac-sim",
+      "title": "Isaac Sim for Photorealistic Simulation",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "isaac-sim/nav2-humanoid": {
+      "id": "isaac-sim/nav2-humanoid",
+      "title": "Nav2 for Humanoid Navigation",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "ros2-foundations/bridging-ai-robots": {
+      "id": "ros2-foundations/bridging-ai-robots",
+      "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "ros2-foundations/communication": {
+      "id": "ros2-foundations/communication",
+      "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "ros2-foundations/foundations": {
+      "id": "ros2-foundations/foundations",
+      "title": "Foundations of the Robotic Nervous System",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "ros2-foundations/index": {
+      "id": "ros2-foundations/index",
+      "title": "Module 1: ROS 2 Foundations",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "vla-system/autonomous-humanoid": {
+      "id": "vla-system/autonomous-humanoid",
+      "title": "Autonomous Humanoid Capstone",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "vla-system/cognitive-planning": {
+      "id": "vla-system/cognitive-planning",
+      "title": "Cognitive Planning with LLMs",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "vla-system/index": {
+      "id": "vla-system/index",
+      "title": "Vision-Language-Action (VLA) System",
+      "description": "Welcome to the Vision-Language-Action (VLA) System module! This section covers how Large Language Models (LLMs) connect language, perception, and robot actions through voice recognition, cognitive planning, and autonomous execution.",
+      "sidebar": "tutorialSidebar"
+    },
+    "vla-system/quality-checklist": {
+      "id": "vla-system/quality-checklist",
+      "title": "Quality Validation Checklist: Vision-Language-Action (VLA) System",
+      "description": "Content Accuracy"
+    },
+    "vla-system/voice-to-action": {
+      "id": "vla-system/voice-to-action",
+      "title": "Voice-to-Action Conversion",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

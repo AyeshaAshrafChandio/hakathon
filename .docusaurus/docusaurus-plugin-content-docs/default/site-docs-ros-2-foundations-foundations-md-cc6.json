@@ -1,0 +1,27 @@
+{
+  "id": "ros2-foundations/foundations",
+  "title": "Foundations of the Robotic Nervous System",
+  "description": "Introduction",
+  "source": "@site/docs/ros2-foundations/foundations.md",
+  "sourceDirName": "ros2-foundations",
+  "slug": "/ros2-foundations/foundations",
+  "permalink": "/docs/ros2-foundations/foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/foundations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: ROS 2 Foundations",
+    "permalink": "/docs/ros2-foundations/"
+  },
+  "next": {
+    "title": "Communication in ROS 2 (Nodes, Topics, Services)",
+    "permalink": "/docs/ros2-foundations/communication"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "isaac-sim/isaac-sim",
+  "title": "Isaac Sim for Photorealistic Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/isaac-sim/isaac-sim.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/",
+  "permalink": "/docs/isaac-sim/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+    "permalink": "/docs/isaac-sim/"
+  },
+  "next": {
+    "title": "Isaac ROS for Accelerated Perception",
+    "permalink": "/docs/isaac-sim/isaac-ros"
+  }
+}

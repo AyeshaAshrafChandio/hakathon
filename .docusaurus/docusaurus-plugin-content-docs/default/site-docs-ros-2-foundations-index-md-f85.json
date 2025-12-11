@@ -1,0 +1,27 @@
+{
+  "id": "ros2-foundations/index",
+  "title": "Module 1: ROS 2 Foundations",
+  "description": "Overview",
+  "source": "@site/docs/ros2-foundations/index.md",
+  "sourceDirName": "ros2-foundations",
+  "slug": "/ros2-foundations/",
+  "permalink": "/docs/ros2-foundations/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/ros2-foundations/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Foundations of the Robotic Nervous System",
+    "permalink": "/docs/ros2-foundations/foundations"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "isaac-sim/nav2-humanoid",
+  "title": "Nav2 for Humanoid Navigation",
+  "description": "Introduction",
+  "source": "@site/docs/isaac-sim/nav2-humanoid.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/nav2-humanoid",
+  "permalink": "/docs/isaac-sim/nav2-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/isaac-sim/nav2-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS for Accelerated Perception",
+    "permalink": "/docs/isaac-sim/isaac-ros"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA) System",
+    "permalink": "/docs/vla-system/"
+  }
+}

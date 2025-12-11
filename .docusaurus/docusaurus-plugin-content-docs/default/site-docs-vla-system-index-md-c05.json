@@ -1,0 +1,27 @@
+{
+  "id": "vla-system/index",
+  "title": "Vision-Language-Action (VLA) System",
+  "description": "Welcome to the Vision-Language-Action (VLA) System module! This section covers how Large Language Models (LLMs) connect language, perception, and robot actions through voice recognition, cognitive planning, and autonomous execution.",
+  "source": "@site/docs/vla-system/index.md",
+  "sourceDirName": "vla-system",
+  "slug": "/vla-system/",
+  "permalink": "/docs/vla-system/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "sidebar_position": 25
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nav2 for Humanoid Navigation",
+    "permalink": "/docs/isaac-sim/nav2-humanoid"
+  },
+  "next": {
+    "title": "Voice-to-Action Conversion",
+    "permalink": "/docs/vla-system/voice-to-action"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "digital-twin/gazebo-physics",
+  "title": "Gazebo Physics Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/digital-twin/gazebo-physics.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/gazebo-physics",
+  "permalink": "/docs/digital-twin/gazebo-physics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/gazebo-physics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: Digital Twin Simulation",
+    "permalink": "/docs/digital-twin/"
+  },
+  "next": {
+    "title": "Unity Digital Twin Environment",
+    "permalink": "/docs/digital-twin/unity-digital-twin"
+  }
+}

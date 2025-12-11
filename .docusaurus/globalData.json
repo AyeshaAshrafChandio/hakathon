@@ -1,0 +1,117 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "digital-twin/gazebo-physics",
+              "path": "/docs/digital-twin/gazebo-physics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/index",
+              "path": "/docs/digital-twin/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/sensor-simulation",
+              "path": "/docs/digital-twin/sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/unity-digital-twin",
+              "path": "/docs/digital-twin/unity-digital-twin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/index",
+              "path": "/docs/isaac-sim/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/isaac-ros",
+              "path": "/docs/isaac-sim/isaac-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/isaac-sim",
+              "path": "/docs/isaac-sim/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/nav2-humanoid",
+              "path": "/docs/isaac-sim/nav2-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-foundations/bridging-ai-robots",
+              "path": "/docs/ros2-foundations/bridging-ai-robots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-foundations/communication",
+              "path": "/docs/ros2-foundations/communication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-foundations/foundations",
+              "path": "/docs/ros2-foundations/foundations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-foundations/index",
+              "path": "/docs/ros2-foundations/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-system/autonomous-humanoid",
+              "path": "/docs/vla-system/autonomous-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-system/cognitive-planning",
+              "path": "/docs/vla-system/cognitive-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-system/index",
+              "path": "/docs/vla-system/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-system/quality-checklist",
+              "path": "/docs/vla-system/quality-checklist"
+            },
+            {
+              "id": "vla-system/voice-to-action",
+              "path": "/docs/vla-system/voice-to-action",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

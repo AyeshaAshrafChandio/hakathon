@@ -1,0 +1,27 @@
+{
+  "id": "vla-system/voice-to-action",
+  "title": "Voice-to-Action Conversion",
+  "description": "Introduction",
+  "source": "@site/docs/vla-system/voice-to-action.md",
+  "sourceDirName": "vla-system",
+  "slug": "/vla-system/voice-to-action",
+  "permalink": "/docs/vla-system/voice-to-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/voice-to-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 26,
+  "frontMatter": {
+    "sidebar_position": 26
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language-Action (VLA) System",
+    "permalink": "/docs/vla-system/"
+  },
+  "next": {
+    "title": "Cognitive Planning with LLMs",
+    "permalink": "/docs/vla-system/cognitive-planning"
+  }
+}

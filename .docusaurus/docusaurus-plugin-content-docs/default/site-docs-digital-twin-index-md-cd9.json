@@ -1,0 +1,27 @@
+{
+  "id": "digital-twin/index",
+  "title": "Module 2: Digital Twin Simulation",
+  "description": "Overview",
+  "source": "@site/docs/digital-twin/index.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/",
+  "permalink": "/docs/digital-twin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/digital-twin/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bridging AI Agents to Robots + URDF for Humanoids",
+    "permalink": "/docs/ros2-foundations/bridging-ai-robots"
+  },
+  "next": {
+    "title": "Gazebo Physics Simulation",
+    "permalink": "/docs/digital-twin/gazebo-physics"
+  }
+}

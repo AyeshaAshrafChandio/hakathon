@@ -1,0 +1,27 @@
+{
+  "id": "vla-system/cognitive-planning",
+  "title": "Cognitive Planning with LLMs",
+  "description": "Introduction",
+  "source": "@site/docs/vla-system/cognitive-planning.md",
+  "sourceDirName": "vla-system",
+  "slug": "/vla-system/cognitive-planning",
+  "permalink": "/docs/vla-system/cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo-name/tree/main/docs/vla-system/cognitive-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 27,
+  "frontMatter": {
+    "sidebar_position": 27
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice-to-Action Conversion",
+    "permalink": "/docs/vla-system/voice-to-action"
+  },
+  "next": {
+    "title": "Autonomous Humanoid Capstone",
+    "permalink": "/docs/vla-system/autonomous-humanoid"
+  }
+}
